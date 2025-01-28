@@ -20,10 +20,10 @@
   },
   "top_banner": {
     "enable": true,
-    "description": "-50% Intro price for the next 72 hours only!.",
+    "description": "",
     "end_link": {
-      "url": "#",
-      "text": "Buy now  →",
+      "url": "",
+      "text": "",
       "new_tab": false
     }
   },
@@ -35,8 +35,8 @@
   },
 
   "site_info": {
-    "site_title": "Ncmaz Nextjs Blog",
-    "site_description": "Ncmaz Nextjs Blog headless WordPress",
+    "site_title": "mpcg live",
+    "site_description": " ",
     "site_keywords": "Ncmaz Nextjs Blog",
     "site_author": "ChisNghiax",
     "site_email": "Your Email",
@@ -46,7 +46,7 @@
     "site_state": "Your State",
     "site_zip": "Your Zip",
     "site_country": "Your Country",
-    "site_url": "https://www.yoursite.com",
+    "site_url": "https://mpcg.live",
     "site_logo": "/logo.png",
     "site_logo_light": "/logo-light.png",
     "site_favicon": "/favicon.png"
